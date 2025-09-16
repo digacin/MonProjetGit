@@ -54,3 +54,6 @@ nombre_2 = int(input("Un deuxième nombre:"))
 somme =nombre_1+nombre_2
 
 print("La somme est:", somme)
+
+R= -(3 + 4) - 4 // 2 + 2 * (4) - (-3 + 1)
+print("R=", R)
